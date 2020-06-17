@@ -1,1 +1,4 @@
-https://abc.com
+{
+  "api": "https://abc.com",
+  "host": "jazzclub.site"
+}
