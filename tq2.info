@@ -1,4 +1,5 @@
 {
   "host": "http://pianostore.site/remo/",
-  "api": "pianostore.site"
+  "api": "pianostore.site",
+  "friend": false,
 }
